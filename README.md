@@ -1,2 +1,2 @@
 # Analyzing-laptop-sold-on-Tiki
-A repository of Python and PowerBi usage tips for data collecting, data cleaning, data visualization and data analytics.
+This is my personal project aim to analyze data of laptop sold on Tiki website. I use Python to collect data through APIs, doing a little cleaning data and Power Bi to visualize and analyze data.
