@@ -1,5 +1,5 @@
-# Analyzing-laptop-sold-on-Tiki
-This is my personal project aimed at analyzing data of laptops sold on the Tiki website. I use Python to collect data through APIs, perform data cleaning, and utilize Power Bi for data visualization and analysis.
+# Data analysis of cellphones sales on Tiki
+This is my personal project aimed at analyzing data of cellphones sold on the Tiki website. I use Python to collect data through APIs, perform data cleaning, and utilize Power Bi for data visualization and analysis.
 
 # Crawl data
 Make sure your laptop/PC have Python installed. Steps to crawl data:
